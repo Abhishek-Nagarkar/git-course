@@ -1,1 +1,1 @@
-"# Hello to git tutorials" 
+# Hello to git tutorials
